@@ -11,3 +11,5 @@ This is a mixed-source personal skills snapshot, not a relicensing of third-part
 Excluded provider-managed materials are listed in inventory.json with reinstall status. Obtain those through the original application/plugin provider.
 
 The backup does not claim authorship of imported material, functional parity across environments, or independent validation of third-party design/research claims.
+
+- Additional OpenAI PDF, Presentations and Spreadsheets snapshots: the original manifests explicitly declare MIT and identify OpenAI as author. Each is preserved as source-plugin-manifest.json; see licenses/OpenAI-plugin-MIT.txt for the MIT terms with OpenAI attribution. Connector registration and host runtime services are not copied. Other provider-managed plugin manifests declare Proprietary, except documents which has explicit extraction/distribution restrictions.

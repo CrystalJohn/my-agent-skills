@@ -9,9 +9,10 @@ Bản sao các skill đang có trên máy, lập ngày 2026-11-04 để lưu phi
 | Skill cài riêng: skills/ | 42 |
 | Skill hệ thống có giấy phép Apache kèm theo: system-skills/ | 4 |
 | Snapshot skill Vercel và tài nguyên hỗ trợ: plugins/vercel/ | 54 |
-| Tổng | 100 |
+| PDF, Presentations, Spreadsheets khai báo MIT | 4 |
+| Tổng | 104 |
 
-inventory.json ghi đủ 135 skill đã kiểm kê: 100 được sao lưu và 35 chỉ ghi tên/nguồn để cài lại. Đây là số file skill trên ổ đĩa, không phải số skill đang bật trong mọi phiên.
+inventory.json ghi đủ 135 skill đã kiểm kê: 104 được sao lưu và 31 chỉ ghi tên/nguồn để cài lại. Đây là số file skill trên ổ đĩa, không phải số skill đang bật trong mọi phiên.
 
 ## Dùng trên máy khác với Codex
 
@@ -34,11 +35,11 @@ Các plugin do ứng dụng quản lý nên cài lại từ nguồn gốc để 
 
 Với ChatGPT web/mobile, repository này không tự trở thành skill trong tài khoản. Cần đóng gói/cài qua luồng plugin được hỗ trợ. Tài liệu: https://learn.chatgpt.com/docs/skills-and-plugins
 
-## 35 skill không sao chép nội dung
+## 31 skill không sao chép nội dung
 
 - 1 skill hệ thống review-agent: không tìm thấy giấy phép phân phối độc lập trong bản cài.
-- 34 skill từ các plugin do ứng dụng quản lý: computer-use, visualize, openai-templates, plugin-management, sites, work-pets và các công cụ tài liệu/bảng tính/trình chiếu.
-- Giấy phép documents cấm trích xuất, giữ bản sao ngoài dịch vụ và phân phối; không sao chép nội dung đó. Các plugin còn lại chưa xác lập quyền phân phối riêng nên được ghi danh mục để cài lại.
+- 30 skill từ plugin có hạn chế: computer-use, visualize, openai-templates, plugin-management, sites, work-pets, documents và template-creator.
+- Giấy phép documents cấm trích xuất, giữ bản sao ngoài dịch vụ và phân phối; không sao chép nội dung đó. Các plugin còn lại trong nhóm này khai báo Proprietary trong manifest và chưa tìm thấy quyền phân phối riêng.
 
 Thay đổi repo thành private không thay thế quyền phân phối.
 
@@ -49,3 +50,6 @@ Giữ các LICENSE/NOTICE đi kèm; xem THIRD_PARTY.md và licenses/. Không áp
 Đây là snapshot đúng phần đã cài, không phải cam kết mọi skill chạy độc lập. Ví dụ ui-ux-pro-max hiện có hướng dẫn gọi scripts/search.py nhưng script đó không có trong thư mục nguồn đã sao lưu; cần cài đủ bộ từ nguồn gốc trước khi dùng chức năng tìm kiếm đó. Một số skill tham chiếu phần mềm, đường dẫn dự án hoặc tài liệu nằm ngoài thư mục skill; máy mới cần điều chỉnh theo môi trường.
 
 Không sao lưu thông tin đăng nhập, cấu hình tài khoản Codex, lịch sử chat, node_modules hay bộ nhớ đệm Python. Nội dung skill và ví dụ dự án được giữ theo bản nguồn; rà soát tự động các mẫu khóa/token phổ biến không thay thế kiểm toán bảo mật toàn diện.
+
+## Bổ sung sau khi kiểm tra manifest
+Bốn skill PDF/Presentations/Spreadsheets được bổ sung dựa trên khai báo MIT của manifest gốc, lưu tại source-plugin-manifest.json trong từng thư mục plugin. Các thư mục này là snapshot nội dung; chúng không đăng ký connector và không mang theo runtime artifact/session của ứng dụng. Không tự động có chức năng tương đương khi chỉ chép skill sang máy mới.

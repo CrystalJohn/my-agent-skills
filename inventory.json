@@ -381,7 +381,7 @@
     "source_relative": "openai-bundled/computer-use/26.1029.61003/skills/computer-use/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "visualize",
@@ -389,7 +389,7 @@
     "source_relative": "openai-bundled/visualize/1.0.74/skills/visualize/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "agent-browser",
@@ -829,7 +829,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-business-review",
@@ -837,7 +837,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-design-report",
@@ -845,7 +845,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-experiment-analysis",
@@ -853,7 +853,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-financial-budget",
@@ -861,7 +861,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-investment-committee-memo",
@@ -869,7 +869,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-legal-memorandum",
@@ -877,7 +877,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-market-trends-report",
@@ -885,7 +885,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-minimal-letterhead",
@@ -893,7 +893,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-operating-calendar",
@@ -901,7 +901,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-operating-review",
@@ -909,7 +909,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-project-kickoff",
@@ -917,7 +917,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-project-tracker",
@@ -925,7 +925,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-sales-pipeline",
@@ -933,7 +933,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-simple-dark-mode",
@@ -941,7 +941,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-simple-light-mode",
@@ -949,7 +949,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-strategy-memorandum",
@@ -957,7 +957,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-system-design",
@@ -965,7 +965,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-team-alignment",
@@ -973,7 +973,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "artifact-template-three-statement-forecast",
@@ -981,7 +981,7 @@
     "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "plugin-management",
@@ -989,7 +989,7 @@
     "source_relative": "openai-curated-remote/plugin-management/0.1.0/skills/plugin-management/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "sites",
@@ -997,7 +997,7 @@
     "source_relative": "openai-curated-remote/sites/1.1.3/skills/sites/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "sites-remix",
@@ -1005,7 +1005,7 @@
     "source_relative": "openai-curated-remote/sites/1.1.3/skills/sites-remix/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "create-pet",
@@ -1013,7 +1013,7 @@
     "source_relative": "openai-curated-remote/work-pets/0.1.6/skills/create-pet/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "pets",
@@ -1021,7 +1021,7 @@
     "source_relative": "openai-curated-remote/work-pets/0.1.6/skills/pets/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "update-pet",
@@ -1029,7 +1029,7 @@
     "source_relative": "openai-curated-remote/work-pets/0.1.6/skills/update-pet/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   },
   {
     "name": "documents",
@@ -1037,39 +1037,39 @@
     "source_relative": "openai-primary-runtime/documents/26.1030.10813/skills/documents/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "License expressly restricts extraction, copying and distribution outside the service."
   },
   {
     "name": "pdf",
     "source_group": "plugin",
     "source_relative": "openai-primary-runtime/pdf/26.1030.10813/skills/pdf/SKILL.md",
-    "status": "reinstall",
-    "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "status": "included",
+    "destination": "plugins/pdf/skills/pdf",
+    "reason": "MIT declared in the original plugin manifest; manifest and attribution preserved. Host runtime dependencies are not included."
   },
   {
     "name": "Presentations",
     "source_group": "plugin",
     "source_relative": "openai-primary-runtime/presentations/26.1030.10813/skills/presentations/SKILL.md",
-    "status": "reinstall",
-    "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "status": "included",
+    "destination": "plugins/presentations/skills/presentations",
+    "reason": "MIT declared in the original plugin manifest; manifest and attribution preserved. Host runtime dependencies are not included."
   },
   {
     "name": "excel-live-control",
     "source_group": "plugin",
     "source_relative": "openai-primary-runtime/spreadsheets/26.1030.10813/skills/excel-live-control/SKILL.md",
-    "status": "reinstall",
-    "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "status": "included",
+    "destination": "plugins/spreadsheets/skills/excel-live-control",
+    "reason": "MIT declared in the original plugin manifest; manifest and attribution preserved. Host runtime dependencies are not included."
   },
   {
     "name": "Spreadsheets",
     "source_group": "plugin",
     "source_relative": "openai-primary-runtime/spreadsheets/26.1030.10813/skills/spreadsheets/SKILL.md",
-    "status": "reinstall",
-    "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "status": "included",
+    "destination": "plugins/spreadsheets/skills/spreadsheets",
+    "reason": "MIT declared in the original plugin manifest; manifest and attribution preserved. Host runtime dependencies are not included."
   },
   {
     "name": "template-creator",
@@ -1077,6 +1077,6 @@
     "source_relative": "openai-primary-runtime/template-creator/26.1030.10813/skills/template-creator/SKILL.md",
     "status": "reinstall",
     "destination": null,
-    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+    "reason": "Original plugin manifest declares Proprietary; no redistribution grant located."
   }
 ]
