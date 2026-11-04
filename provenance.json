@@ -1,0 +1,194 @@
+[
+  {
+    "name": "firecrawl-agent",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-agent/SKILL.md"
+  },
+  {
+    "name": "firecrawl",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-cli/SKILL.md"
+  },
+  {
+    "name": "firecrawl-crawl",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-crawl/SKILL.md"
+  },
+  {
+    "name": "firecrawl-download",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-download/SKILL.md"
+  },
+  {
+    "name": "firecrawl-interact",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-interact/SKILL.md"
+  },
+  {
+    "name": "firecrawl-map",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-map/SKILL.md"
+  },
+  {
+    "name": "firecrawl-monitor",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-monitor/SKILL.md"
+  },
+  {
+    "name": "firecrawl-parse",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-parse/SKILL.md"
+  },
+  {
+    "name": "firecrawl-scrape",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-scrape/SKILL.md"
+  },
+  {
+    "name": "firecrawl-search",
+    "source": "firecrawl/cli",
+    "url": "https://github.com/firecrawl/cli.git",
+    "skillPath": "skills/firecrawl-search/SKILL.md"
+  },
+  {
+    "name": "firecrawl-build-interact",
+    "source": "firecrawl/skills",
+    "url": "https://github.com/firecrawl/skills.git",
+    "skillPath": "skills/firecrawl-build-interact/SKILL.md"
+  },
+  {
+    "name": "firecrawl-build-onboarding",
+    "source": "firecrawl/skills",
+    "url": "https://github.com/firecrawl/skills.git",
+    "skillPath": "skills/firecrawl-build-onboarding/SKILL.md"
+  },
+  {
+    "name": "firecrawl-build-scrape",
+    "source": "firecrawl/skills",
+    "url": "https://github.com/firecrawl/skills.git",
+    "skillPath": "skills/firecrawl-build-scrape/SKILL.md"
+  },
+  {
+    "name": "firecrawl-build-search",
+    "source": "firecrawl/skills",
+    "url": "https://github.com/firecrawl/skills.git",
+    "skillPath": "skills/firecrawl-build-search/SKILL.md"
+  },
+  {
+    "name": "firecrawl-research-index",
+    "source": "firecrawl/skills",
+    "url": "https://github.com/firecrawl/skills.git",
+    "skillPath": "skills/firecrawl-research-index/SKILL.md"
+  },
+  {
+    "name": "firecrawl-company-directories",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-company-directories/SKILL.md"
+  },
+  {
+    "name": "firecrawl-competitive-intel",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-competitive-intel/SKILL.md"
+  },
+  {
+    "name": "firecrawl-dashboard-reporting",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-dashboard-reporting/SKILL.md"
+  },
+  {
+    "name": "firecrawl-deep-research",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-deep-research/SKILL.md"
+  },
+  {
+    "name": "firecrawl-demo-walkthrough",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-demo-walkthrough/SKILL.md"
+  },
+  {
+    "name": "firecrawl-knowledge-base",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-knowledge-base/SKILL.md"
+  },
+  {
+    "name": "firecrawl-knowledge-ingest",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-knowledge-ingest/SKILL.md"
+  },
+  {
+    "name": "firecrawl-lead-gen",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-lead-gen/SKILL.md"
+  },
+  {
+    "name": "firecrawl-lead-research",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-lead-research/SKILL.md"
+  },
+  {
+    "name": "firecrawl-market-research",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-market-research/SKILL.md"
+  },
+  {
+    "name": "firecrawl-qa",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-qa/SKILL.md"
+  },
+  {
+    "name": "firecrawl-research-papers",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-research-papers/SKILL.md"
+  },
+  {
+    "name": "firecrawl-seo-audit",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-seo-audit/SKILL.md"
+  },
+  {
+    "name": "firecrawl-shop",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-shop/SKILL.md"
+  },
+  {
+    "name": "firecrawl-website-design-clone",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-website-design-clone/SKILL.md"
+  },
+  {
+    "name": "firecrawl-workflows",
+    "source": "firecrawl/firecrawl-workflows",
+    "url": "https://github.com/firecrawl/firecrawl-workflows.git",
+    "skillPath": "skills/firecrawl-workflows/SKILL.md"
+  },
+  {
+    "name": "planning-with-files",
+    "source": "OthmanAdi/planning-with-files",
+    "url": "https://github.com/OthmanAdi/planning-with-files.git",
+    "skillPath": "skills/planning-with-files/SKILL.md"
+  }
+]

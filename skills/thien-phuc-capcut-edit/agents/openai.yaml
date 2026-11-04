@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapCut · Ô Tô Thiên Phúc"
+  short_description: "Dựng video dọc/ngang theo mẫu, hỏi trước render"
+  default_prompt: "Dùng $thien-phuc-capcut-edit để dựng video theo đúng mẫu 9:16 hoặc 16:9 tôi đã duyệt trong CapCut, giữ nhạc/SFX riêng và hỏi tôi trước khi render."

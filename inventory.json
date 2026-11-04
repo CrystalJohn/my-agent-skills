@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "imagegen",
+    "source_group": "system",
+    "source_relative": ".system/imagegen/SKILL.md",
+    "status": "included",
+    "destination": "system-skills/imagegen",
+    "reason": ""
+  },
+  {
+    "name": "openai-docs",
+    "source_group": "system",
+    "source_relative": ".system/openai-docs/SKILL.md",
+    "status": "included",
+    "destination": "system-skills/openai-docs",
+    "reason": ""
+  },
+  {
+    "name": "review-agent",
+    "source_group": "system",
+    "source_relative": ".system/review-agent/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Bundled system skill; no standalone redistribution license located."
+  },
+  {
+    "name": "skill-creator",
+    "source_group": "system",
+    "source_relative": ".system/skill-creator/SKILL.md",
+    "status": "included",
+    "destination": "system-skills/skill-creator",
+    "reason": ""
+  },
+  {
+    "name": "skill-installer",
+    "source_group": "system",
+    "source_relative": ".system/skill-installer/SKILL.md",
+    "status": "included",
+    "destination": "system-skills/skill-installer",
+    "reason": ""
+  },
+  {
+    "name": "gh-address-comments",
+    "source_group": "standalone",
+    "source_relative": "gh-address-comments/SKILL.md",
+    "status": "included",
+    "destination": "skills/gh-address-comments",
+    "reason": ""
+  },
+  {
+    "name": "gh-fix-ci",
+    "source_group": "standalone",
+    "source_relative": "gh-fix-ci/SKILL.md",
+    "status": "included",
+    "destination": "skills/gh-fix-ci",
+    "reason": ""
+  },
+  {
+    "name": "learning-product-ux",
+    "source_group": "standalone",
+    "source_relative": "learning-product-ux/SKILL.md",
+    "status": "included",
+    "destination": "skills/learning-product-ux",
+    "reason": ""
+  },
+  {
+    "name": "playwright",
+    "source_group": "standalone",
+    "source_relative": "playwright/SKILL.md",
+    "status": "included",
+    "destination": "skills/playwright",
+    "reason": ""
+  },
+  {
+    "name": "research",
+    "source_group": "standalone",
+    "source_relative": "research/SKILL.md",
+    "status": "included",
+    "destination": "skills/research",
+    "reason": ""
+  },
+  {
+    "name": "security-best-practices",
+    "source_group": "standalone",
+    "source_relative": "security-best-practices/SKILL.md",
+    "status": "included",
+    "destination": "skills/security-best-practices",
+    "reason": ""
+  },
+  {
+    "name": "security-threat-model",
+    "source_group": "standalone",
+    "source_relative": "security-threat-model/SKILL.md",
+    "status": "included",
+    "destination": "skills/security-threat-model",
+    "reason": ""
+  },
+  {
+    "name": "design-taste-frontend",
+    "source_group": "standalone",
+    "source_relative": "taste-skill/SKILL.md",
+    "status": "included",
+    "destination": "skills/taste-skill",
+    "reason": ""
+  },
+  {
+    "name": "thien-phuc-capcut-edit",
+    "source_group": "standalone",
+    "source_relative": "thien-phuc-capcut-edit/SKILL.md",
+    "status": "included",
+    "destination": "skills/thien-phuc-capcut-edit",
+    "reason": ""
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "source_group": "standalone",
+    "source_relative": "ui-ux-pro-max/SKILL.md",
+    "status": "included",
+    "destination": "skills/ui-ux-pro-max",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl",
+    "source_group": "standalone",
+    "source_relative": "firecrawl/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-agent",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-agent/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-agent",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-build-interact",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-build-interact/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-build-interact",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-build-onboarding",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-build-onboarding/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-build-onboarding",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-build-scrape",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-build-scrape/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-build-scrape",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-build-search",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-build-search/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-build-search",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-company-directories",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-company-directories/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-company-directories",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-competitive-intel",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-competitive-intel/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-competitive-intel",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-crawl",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-crawl/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-crawl",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-dashboard-reporting",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-dashboard-reporting/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-dashboard-reporting",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-deep-research",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-deep-research/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-deep-research",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-demo-walkthrough",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-demo-walkthrough/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-demo-walkthrough",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-download",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-download/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-download",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-interact",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-interact/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-interact",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-knowledge-base",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-knowledge-base/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-knowledge-base",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-knowledge-ingest",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-knowledge-ingest/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-knowledge-ingest",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-lead-gen",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-lead-gen/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-lead-gen",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-lead-research",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-lead-research/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-lead-research",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-map",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-map/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-map",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-market-research",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-market-research/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-market-research",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-monitor",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-monitor/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-monitor",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-parse",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-parse/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-parse",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-qa",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-qa/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-qa",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-research-index",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-research-index/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-research-index",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-research-papers",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-research-papers/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-research-papers",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-scrape",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-scrape/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-scrape",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-search",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-search/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-search",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-seo-audit",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-seo-audit/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-seo-audit",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-shop",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-shop/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-shop",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-website-design-clone",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-website-design-clone/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-website-design-clone",
+    "reason": ""
+  },
+  {
+    "name": "firecrawl-workflows",
+    "source_group": "standalone",
+    "source_relative": "firecrawl-workflows/SKILL.md",
+    "status": "included",
+    "destination": "skills/firecrawl-workflows",
+    "reason": ""
+  },
+  {
+    "name": "planning-with-files",
+    "source_group": "standalone",
+    "source_relative": "planning-with-files/SKILL.md",
+    "status": "included",
+    "destination": "skills/planning-with-files",
+    "reason": ""
+  },
+  {
+    "name": "computer-use",
+    "source_group": "plugin",
+    "source_relative": "openai-bundled/computer-use/26.1029.61003/skills/computer-use/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "visualize",
+    "source_group": "plugin",
+    "source_relative": "openai-bundled/visualize/1.0.74/skills/visualize/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "agent-browser",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/agent-browser/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/agent-browser",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "agent-browser-verify",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/agent-browser-verify/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/agent-browser-verify",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "ai-elements",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/ai-elements/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/ai-elements",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "ai-gateway",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/ai-gateway/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/ai-gateway",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "ai-generation-persistence",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/ai-generation-persistence/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/ai-generation-persistence",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "ai-sdk",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/ai-sdk/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/ai-sdk",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "auth",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/auth/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/auth",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "bootstrap",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/bootstrap/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/bootstrap",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "cdn-caching",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/cdn-caching/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/cdn-caching",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "chat-sdk",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/chat-sdk/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/chat-sdk",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "cms",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/cms/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/cms",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "cron-jobs",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/cron-jobs/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/cron-jobs",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "deployments-cicd",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/deployments-cicd/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/deployments-cicd",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "email",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/email/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/email",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "env-vars",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/env-vars/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/env-vars",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "eve",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/eve/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/eve",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "geist",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/geist/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/geist",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "geistdocs",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/geistdocs/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/geistdocs",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "investigation-mode",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/investigation-mode/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/investigation-mode",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "json-render",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/json-render/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/json-render",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "knowledge-update",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/knowledge-update/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/knowledge-update",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "marketplace",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/marketplace/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/marketplace",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "micro",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/micro/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/micro",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "microfrontends",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/microfrontends/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/microfrontends",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "ncc",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/ncc/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/ncc",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "next-cache-components",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/next-cache-components/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/next-cache-components",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "next-forge",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/next-forge/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/next-forge",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "next-upgrade",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/next-upgrade/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/next-upgrade",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "nextjs",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/nextjs/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/nextjs",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "observability",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/observability/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/observability",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "payments",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/payments/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/payments",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "react-best-practices",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/react-best-practices/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/react-best-practices",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "routing-middleware",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/routing-middleware/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/routing-middleware",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "runtime-cache",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/runtime-cache/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/runtime-cache",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "satori",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/satori/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/satori",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "shadcn",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/shadcn/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/shadcn",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "sign-in-with-vercel",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/sign-in-with-vercel/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/sign-in-with-vercel",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "swr",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/swr/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/swr",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "turbopack",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/turbopack/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/turbopack",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "turborepo",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/turborepo/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/turborepo",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "v0-dev",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/v0-dev/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/v0-dev",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-agent",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-agent/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-agent",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-api",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-api/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-api",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-cli",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-cli/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-cli",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-connect",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-connect/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-connect",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-firewall",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-firewall/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-firewall",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-flags",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-flags/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-flags",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-functions",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-functions/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-functions",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-queues",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-queues/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-queues",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-sandbox",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-sandbox/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-sandbox",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-services",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-services/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-services",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "vercel-storage",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/vercel-storage/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/vercel-storage",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "verification",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/verification/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/verification",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "workflow",
+    "source_group": "plugin",
+    "source_relative": "openai-curated/vercel/b767f8fa/skills/workflow/SKILL.md",
+    "status": "included",
+    "destination": "plugins/vercel/skills/workflow",
+    "reason": "Apache-2.0 upstream; attribution retained."
+  },
+  {
+    "name": "artifact-template-analytics-dashboard",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-business-review",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-design-report",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-experiment-analysis",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-financial-budget",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-investment-committee-memo",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-legal-memorandum",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-market-trends-report",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-minimal-letterhead",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-operating-calendar",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-operating-review",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-project-kickoff",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-project-tracker",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-sales-pipeline",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-simple-dark-mode",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-simple-light-mode",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-strategy-memorandum",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-system-design",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-team-alignment",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "artifact-template-three-statement-forecast",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "plugin-management",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/plugin-management/0.1.0/skills/plugin-management/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "sites",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/sites/1.1.3/skills/sites/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "sites-remix",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/sites/1.1.3/skills/sites-remix/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "create-pet",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/work-pets/0.1.6/skills/create-pet/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "pets",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/work-pets/0.1.6/skills/pets/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "update-pet",
+    "source_group": "plugin",
+    "source_relative": "openai-curated-remote/work-pets/0.1.6/skills/update-pet/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "documents",
+    "source_group": "plugin",
+    "source_relative": "openai-primary-runtime/documents/26.1030.10813/skills/documents/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "pdf",
+    "source_group": "plugin",
+    "source_relative": "openai-primary-runtime/pdf/26.1030.10813/skills/pdf/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "Presentations",
+    "source_group": "plugin",
+    "source_relative": "openai-primary-runtime/presentations/26.1030.10813/skills/presentations/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "excel-live-control",
+    "source_group": "plugin",
+    "source_relative": "openai-primary-runtime/spreadsheets/26.1030.10813/skills/excel-live-control/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "Spreadsheets",
+    "source_group": "plugin",
+    "source_relative": "openai-primary-runtime/spreadsheets/26.1030.10813/skills/spreadsheets/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  },
+  {
+    "name": "template-creator",
+    "source_group": "plugin",
+    "source_relative": "openai-primary-runtime/template-creator/26.1030.10813/skills/template-creator/SKILL.md",
+    "status": "reinstall",
+    "destination": null,
+    "reason": "Host-managed plugin material: reinstall through original provider; redistribution not established (documents expressly restricts extraction/distribution)."
+  }
+]

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Product UI/UX + Learning"
+  short_description: "Design usable flows, polished UI, and learning experiences"
+  default_prompt: "Use $learning-product-ux to design or improve this product's user flows and visual interface, implement the requested changes, and verify the result."
+
